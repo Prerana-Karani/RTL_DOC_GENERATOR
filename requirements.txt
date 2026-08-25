@@ -1,0 +1,10 @@
+pyverilog
+networkx
+sentence-transformers
+chromadb
+langchain
+langchain-groq
+groq
+jinja2
+pytest
+python-dotenv
